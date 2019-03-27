@@ -4,5 +4,6 @@ void main()
 {
  clrscr();
  printf("HELLO WORLD");
+printf("Panchami I R");
  getch();
 }
